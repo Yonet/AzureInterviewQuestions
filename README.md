@@ -2,6 +2,7 @@
 
 ## Serverless
 
-- What's the difference between Logic Apps and Functions?
+[Azure Serverless](https://azure.microsoft.com/solutions/serverless/?WT.mc_id=aiml-17103-ayyonet)
 
-An Azure function is a code triggered by an event whereas an Azure Logic app is a workflow triggered by an event.
+- [What's the difference between Logic Apps and Functions?](https://github.com/Yonet/AzureInterviewQuestions/blob/main/serverless.md)
+
